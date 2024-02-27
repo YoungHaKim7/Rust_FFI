@@ -1,3 +1,7 @@
+<p>
+  <img src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/795e8056-a825-493b-abc7-03c0670e041c" />
+</p>
+
 # Rust_FFI
 
 - A handful of well-known projects aim to automate creating bridges to and from C++.
