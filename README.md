@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/795e8056-a825-493b-abc7-03c0670e041c" />
+  <img width="190px" src="https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/795e8056-a825-493b-abc7-03c0670e041c" />
 </p>
 
 # Rust_FFI
