@@ -8,3 +8,5 @@
 
 
 https://youtu.be/jNNz4h3iIlw?si=cBGcDExs5tZhILYM
+
+- part2 https://youtu.be/ugiR9M16fwg?si=XwSmzRAosFJW7FdX
