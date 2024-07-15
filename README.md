@@ -5,7 +5,10 @@
 <hr>
 
 # The Rust FFI Omnibus
-http://jakegoulding.com/rust-ffi-omnibus/
+- http://jakegoulding.com/rust-ffi-omnibus/
+
+- (June 6, 2024) Mix in Rust
+  - https://tweedegolf.nl/en/blog/123/mix-in-rust
 
 # Rust_FFI
 
