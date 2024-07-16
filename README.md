@@ -4,6 +4,11 @@
 
 <hr>
 
+# (Rust-FFI) Rust와 다른 언어 섞는거 연습하기(이 사람 러스트 컴파일 개발자임 무조건 팔로우 ㅋ
+- https://github.com/alexcrichton/rust-ffi-examples
+
+<hr>
+
 # The Rust FFI Omnibus
 - http://jakegoulding.com/rust-ffi-omnibus/
 
