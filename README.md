@@ -50,3 +50,4 @@
 
 # C2rust
 - https://github.com/immunant/c2rust
+  - eBook https://locka99.gitbooks.io/a-guide-to-porting-c-to-rust/content/
